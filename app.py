@@ -8,7 +8,7 @@ app = Flask(__name__)
 LANGUAGES = {
     'en': 'English',
     'fr': 'French',
-    # 'te': 'Telugu',
+    'te': 'Telugu',
     'es': 'Spanish',
     'pt': 'Portuguese',
     'it': 'Italian',
